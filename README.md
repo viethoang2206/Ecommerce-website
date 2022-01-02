@@ -1,7 +1,5 @@
+
 # FE Template
-
-[![N|Solid](https://i.imgur.com/BmorCRp.png)](https://www.facebook.com/Cheatsomething)
-
 FE template is a simple template for FE Developers,
 what i use..
 
