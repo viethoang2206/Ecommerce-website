@@ -1,4 +1,4 @@
-
+# Need to download and install font awesome to display the website correctly
 # FE Template
 FE template is a simple template for FE Developers,
 what i use..
