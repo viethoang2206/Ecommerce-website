@@ -1,0 +1,58 @@
+
+
+
+//extra-small->xs: 320->576
+
+@mixin xs {
+    @media(min-width: 320px){
+        @content;
+    }
+}
+//small->sm: 576->768
+@mixin sm {
+    @media(min-width: 576px){
+        @content;
+    }
+}
+@mixin md {
+    @media(min-width: 768px){
+        @content;
+    }
+}
+@mixin xmd {
+    @media(min-width: 900px){
+        @content;
+    }
+}
+@mixin lg {
+    @media(min-width: 992px){
+        @content;
+    }
+}
+@mixin maxlg {
+    @media(max-width: 992px){
+        @content;
+    }
+}
+@mixin maxxl{
+    @media(max-width:1200px){
+        @content
+    }
+}
+@mixin xl {
+    @media(min-width: 1200px){
+        @content;
+    }
+}
+@mixin lessThan1300{
+    @media(max-width:1250px){
+        @content;
+    }
+}
+
+@mixin moreThan1400{
+    @media(max-width:1400px){
+        @content
+    }
+}
+

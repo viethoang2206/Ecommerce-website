@@ -1,0 +1,128 @@
+[
+    {
+      "id": 1,
+      "name": "Black Fashion Zapda",
+      "original": 106.97,
+      "promotion": 53.49,
+      "tag": ["NEW", "HOT", "SALE"],
+      "img": "https://cdn.shopify.com/s/files/1/0264/8421/1735/products/001_2048x.png?v=1585880989",
+      "currency": "$",
+      "status": "SELECT OPTION"
+    },
+    {
+      "id": 2,
+      "name": "Coneco Product Sample",
+      "original": 106.97,
+      "img": "https://cdn.shopify.com/s/files/1/0264/8421/1735/products/1_3aec512d-bba7-4e15-82ba-a8e457e00bd9_2048x.png?v=1585880988",
+      "currency": "$",
+      "status": "SELECT OPTION"
+    },
+    {
+      "id": 3,
+      "name": "Daltex Product Example",
+      "original": 133.72,
+      "promotion": 106.97,
+      "tag": ["SALE"],
+      "img": "https://cdn.shopify.com/s/files/1/0264/8421/1735/products/002_c7294946-8824-4b93-8cae-7ac4b9444642_2048x.png?v=1585880994",
+      "currency": "$",
+      "status": "ADD  TO CART"
+    },
+    {
+      "id": 4,
+      "name": "Dentoex Product Example",
+      "original": 262.08,
+      "promotion": 106.97,
+      "tag": ["SALE"],
+      "img": "https://cdn.shopify.com/s/files/1/0264/8421/1735/products/003_fec695c3-c0ee-4427-ab76-1848d2fdf3a3_2048x.png?v=1585880987",
+      "currency": "$",
+      "status": "SELECT OPTION"
+    },
+    {
+      "id": 5,
+      "name": "Dentotam Product Sample",
+      "original": 106.32,
+      "img": "https://cdn.shopify.com/s/files/1/0264/8421/1735/products/004_0bcd958d-3842-4b52-920a-96f8062c6b78_540x.png?v=1585880985",
+      "currency": "$",
+      "status": "SELECT OPTION"
+    },
+    {
+      "id": 6,
+      "name": "Dentotam Product Sample",
+      "original": 425.29,
+      "promotion": 318.97,
+      "tag": ["SALE"],
+      "img": "https://cdn.shopify.com/s/files/1/0264/8421/1735/products/005_2048x.png?v=1585880987",
+      "currency": "$",
+      "status": "SELECT OPTION"
+    },
+    {
+      "id": 7,
+      "name": "Faxtex Product Sample",
+      "original": 526.3,
+      "promotion": 478.45,
+      "tag": ["SALE"],
+      "img": "https://cdn.shopify.com/s/files/1/0264/8421/1735/products/5_9e4f0531-1da4-43e2-8611-efc3e25d150c_2048x.png?v=1585880985",
+      "currency": "$",
+      "status": "SELECT OPTION"
+    },
+    {
+      "id": 8,
+      "name": "Hotex Product Sample",
+      "original": 366.28,
+      "img": "https://cdn.shopify.com/s/files/1/0264/8421/1735/products/8_dacdf437-63f6-4267-8e2b-500ba7c21f5c_540x.png?v=1585880987",
+      "currency": "$",
+      "status": "SELECT OPTION"
+    },
+    {
+      "id": 9,
+      "name": "Irene Royal Product",
+      "original": 106.97,
+
+      "img": "https://cdn.shopify.com/s/files/1/0264/8421/1735/products/11_09c49474-9c27-4885-b329-100de196ada1_2048x.png?v=1585880986",
+      "currency": "$",
+      "status": "SELECT OPTION"
+    },
+    {
+      "id": 10,
+      "name": "Product Example",
+      "original": 106.97,
+      "img": "https://cdn.shopify.com/s/files/1/0264/8421/1735/products/072_2048x.png?v=1585881004",
+      "currency": "$",
+      "status": "OUT OF STOCK"
+    },
+    {
+      "id": 11,
+      "name": "Newity Product Sample",
+      "original": 133.72,
+
+      "img": "https://cdn.shopify.com/s/files/1/0264/8421/1735/products/069_2048x.png?v=1585881004",
+      "currency": "$",
+      "status": "SELECT OPTION"
+    },
+    {
+      "id": 12,
+      "name": "Lexizimin Product Sample",
+      "original": 262.08,
+      "img": "https://cdn.shopify.com/s/files/1/0264/8421/1735/products/074_2048x.png?v=1585881005",
+      "currency": "$",
+      "status": "SELECT OPTION"
+    },
+    {
+      "id": 13,
+      "name": "Lexizimin Product Sample",
+      "original": 262.08,
+      "img": "https://cdn.shopify.com/s/files/1/0264/8421/1735/products/030_0fa23121-c7de-4344-8459-3f225eaa1894_2048x.png?v=1585880984",
+      "currency": "$",
+      "status": "SELECT OPTION"
+    },
+    {
+      "id": 14,
+      "name": "Fixair Product Sample",
+      "original": 637.94,
+      "promotion": 584.78,
+      "img": "https://cdn.shopify.com/s/files/1/0264/8421/1735/products/051_aa8d36f6-6417-4263-9a95-0e060cef3f90_2048x.png?v=1585880988",
+      "currency": "$",
+      "tag": ["SALE"],
+      "status": "SELECT OPTION"
+    }
+  ]

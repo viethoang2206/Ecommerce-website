@@ -1,0 +1,70 @@
+[
+    {
+      "id": 1,
+      "name": "Fixair Product Sample",
+      "original": 638.23,
+      "promotion": 585.05,
+      "img": "https://cdn.shopify.com/s/files/1/0264/8421/1735/products/051_aa8d36f6-6417-4263-9a95-0e060cef3f90_320x.png?v=1585880988",
+      "currency": "$",
+      "status": "SELECT OPTION"
+    },
+    {
+      "id": 2,
+      "name": "Hot Com Product Sample",
+      "original": 797.79,
+      "promotion": 664.83,
+      "img": "https://cdn.shopify.com/s/files/1/0264/8421/1735/products/035_a9f57501-1545-4302-8100-817607bca883_2048x.png?v=1585880985",
+      "currency": "$",
+      "status": "ADD TO CART"
+    },
+    {
+      "id": 3,
+      "name": "Hotex Product Sample",
+      "original": 366.98,
+
+      "img": "https://cdn.shopify.com/s/files/1/0264/8421/1735/products/8_dacdf437-63f6-4267-8e2b-500ba7c21f5c_2048x.png?v=1585880987",
+      "currency": "$",
+      "status": "SELECT OPTION"
+    },
+    {
+      "id": 4,
+      "name": "Gold Diamond Chain",
+      "original": 366.98,
+      "img": "https://cdn.shopify.com/s/files/1/0264/8421/1735/products/084_1ec35392-df1d-4f92-a3f8-46f95c14254d_2048x.png?v=1585880984",
+      "currency": "$",
+      "status": "SELECT OPTION"
+    },
+    {
+      "id": 5,
+      "name": "Lexizimin Product Sample",
+      "original": 186.15,
+      "img": "https://cdn.shopify.com/s/files/1/0264/8421/1735/products/030_0fa23121-c7de-4344-8459-3f225eaa1894_2048x.png?v=1585880984",
+      "currency": "$",
+      "status": "SELECT OPTION"
+    },
+    {
+      "id": 6,
+      "name": "Kaydex Product Sample",
+      "original": 292.52,
+      "promotion": 260.61,
+      "img": "https://cdn.shopify.com/s/files/1/0264/8421/1735/products/012_0d41df45-c2d7-456e-bc82-20d25b695bcd_2048x.png?v=1585880985",
+      "currency": "$",
+      "status": "ADD TO CART"
+    },
+    {
+      "id": 7,
+      "name": "Dentoex Product Sample",
+      "original": 106.37,
+      "img": "https://cdn.shopify.com/s/files/1/0264/8421/1735/products/004_0bcd958d-3842-4b52-920a-96f8062c6b78_2048x.png?v=1585880985",
+      "currency": "$",
+      "status": "SELECT OPTION"
+    },
+    {
+      "id": 8,
+      "name": "Lexizimin Product Sample",
+      "original": 473.36,
+      "img": "https://cdn.shopify.com/s/files/1/0264/8421/1735/products/074_2048x.png?v=1585881005",
+      "currency": "$",
+      "status": "SELECT OPTION"
+    }
+  ]

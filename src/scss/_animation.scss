@@ -1,0 +1,139 @@
+@keyframes bgSlide{
+    from{
+        opacity: 0;
+        transform: translateY(100px);
+    }
+    to{
+        transform: translateY(0);
+    }
+}
+@keyframes bgToTop{
+   
+    to{
+       
+        height: 100%;
+    }
+}
+@keyframes zoomPic{
+    from{
+        transform: scale(1)
+    }
+    to{
+        transform: scale(1.1);
+    }
+}
+@keyframes slideUp{
+    from{
+        transform: translateY(100px);
+    }
+    to{
+        opacity: 1;
+        transform: translateY(0px);
+    }
+}
+@keyframes textSlideRight{
+    from{
+        opacity: 0;
+        transform: translateX(-400px);
+    }
+    to{
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+@keyframes textSlideLeft{
+    from{
+        opacity: 0;
+        transform: translateX(400px);
+    }
+    to{
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+@keyframes buttonDisplay{
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}
+
+@keyframes bounce{
+    from{
+        transform: translateY(0px);
+    }
+    to{
+        transform: translateY(-10px);
+    }
+}
+@keyframes slideLR{
+    to{
+        width: 100%;
+    }
+    
+}
+@keyframes proStatus{
+    from{
+        height:0;
+        opacity: 0;
+    }
+    to{
+        
+        height: 40px;
+        opacity: 1;
+    }
+}
+@keyframes zoomOut{
+    0%{
+        transform: scale(1);
+    }
+    20%{
+        opacity: 0.7;
+    }
+    50%{
+        opacity: 0.5;
+    }
+    100%{
+        transform: scale(1.4);
+        opacity: 0.2;
+    }
+}
+@keyframes pouding{
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.1);
+    }
+}
+@keyframes shaking{
+    from{
+        transform: translateX(10px);
+    }
+    to{
+        transform: translateX(0);
+    }
+}
+@keyframes tabTrans{
+    0%{
+        opacity: 0;
+    }
+    50%{
+        opacity: 0.5;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+@keyframes slideIn{
+    100%{
+        transform: translateX(100px);
+    }
+    0%{
+        transform: translateX(0px);
+        
+    }
+}
